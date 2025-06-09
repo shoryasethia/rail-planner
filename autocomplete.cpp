@@ -124,17 +124,21 @@ int main() {
         trie.insert(stations[i].station_name);
     }
 
-    string toSearch = "kota";
+    string toSearch = "MU";
     transform(toSearch.begin(), toSearch.end(), toSearch.begin(), [](unsigned char c){ return tolower(c); });
 
 
     int topK = 3;
     vector<string> topKresults = trie.search(toSearch,topK);
 
-    cout<<"Top "<<topK<<" result matching with "<<toSearch<< " are:"<<endl;
+    cout<<"Top "<<min(topK,(int)topKresults.size())<<" result matching with "<<toSearch<< " are:"<<endl;
     for(int i=0;i<topKresults.size();i++){
-        cout<<"    "<<topKresults[i]<<endl;
+        cout<<topKresults[i]<<endl;
     }
+
+    // Top 2 result matching with mu are:
+    // mumbaicsmt
+    // muzaffarpurjn
 
     return 0;
 }
