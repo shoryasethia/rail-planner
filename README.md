@@ -1,6 +1,6 @@
 # RAIL PLANNER
 
-* [x] `Trie` and `DFS` based Autocomplete for Station Names
+* [x] **Trie** and **DFS** based Autocomplete for Station Names
 * [ ] Implement **KMP Algorithm** for keyword-based review search
 * [ ] Use **Heap** to filter and prioritize user reviews by rating
 * [ ] Represent station network as a **Graph** (client-server model)
