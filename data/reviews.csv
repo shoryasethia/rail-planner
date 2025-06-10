@@ -1,0 +1,207 @@
+username,target_type,target_name,rating,comment
+TravelBugRavi,station,MumbaiCSMT,4.8,Absolutely stunning architecture at MumbaiCSMT! Platforms were clean and well-maintained. A pleasure to start a journey from here.
+RailExplorerPriya,train,RajdhaniExpress,4.5,The Rajdhani Express was mostly on time. Food quality was good, and the bedding provided was clean. Comfortable journey overall.
+StationSeekerAnil,station,NewDelhiRS,2.5,New Delhi RS is always chaotic. Signage could be much better, and cleanliness is a major issue, especially near food stalls. Needs improvement.
+JourneyQueenDeepa,train,ChennaiBengaluruShatabdi,4.2,Enjoyed the Chennai-Bengaluru Shatabdi. Seats were comfortable, and the AC worked well. Reached destination promptly.
+TrackStarVikram,station,HowrahJn,3.1,Howrah Junction is an iconic station but terribly crowded. Finding the right platform can be a task. Average experience.
+NomadNakul,train,LocalMEMU,3.5,The Local MEMU was packed, as usual, but it's a lifeline for daily commuters. Reasonably punctual for a local train.
+WanderlustDiya,station,BengaluruCantt,3.8,Bengaluru Cantt has a nice old-world charm. Waiting areas are decent. Could do with more modern amenities though.
+PathfinderPooja,train,VandeBharat,4.9,Vande Bharat is a game changer! Super fast, clean, and excellent onboard service. Loved the big windows. Worth the price.
+RouteMasterRaj,station,JaipurJn,4.0,Jaipur Jn was quite clean and well-organized. Staff at the inquiry counter were helpful. Good food options available.
+VoyageVani,train,KalkaShimlaToyTrain,4.6,The Kalka-Shimla Toy Train journey was breathtaking! Slow, yes, but the views are unparalleled. A must-do experience.
+GlobeTrotterGita,station,AhmedabadJn,2.8,Ahmedabad Jn was okay. Cleanliness was average. The prepaid auto-rickshaw stand outside was convenient.
+ExpressFanAmit,train,DurontoExpress,3.9,Duronto Express offered a decent non-stop experience. Food was alright, could be better. Toilets needed more frequent cleaning.
+LocalLoverLila,station,PuneJn,4.1,Pune Jn is a busy but efficient station. Good connectivity. Platforms were relatively clean during my visit.
+ComfortCruiserKaran,train,TejasExpress,4.7,Tejas Express felt very premium. Comfortable seats, personal entertainment screens, and attentive staff. A great way to travel.
+BudgetTravellerBina,station,NagpurJn,3.3,Nagpur Jn is a major junction, so expect crowds. Basic facilities are available. Waiting rooms were okay.
+LuxuryLinerLokesh,train,GaribRath,2.9,Garib Rath is no-frills, as expected. Seats are a bit cramped, especially with side middle berths. Okay for short distances if on a budget.
+SpeedDemonSonia,station,LucknowNR,3.6,Lucknow NR station (Charbagh) has impressive architecture. Platforms were manageable. Ticketing was smooth.
+ScenicSeekerSamir,train,DarjeelingHimalayanRailway,4.3,The Darjeeling Himalayan Railway is pure nostalgia! The steam engine, the slow pace... it's all about the journey.
+CityHopperChitra,station,BhopalJn,3.9,Bhopal Jn was surprisingly well-maintained. Good cleanliness on platforms. Efficient announcement system.
+AdventureAlok,train,JanShatabdi,3.7,Jan Shatabdi offers good value. Seats are comfortable enough for a day journey. Pantry car options were limited but okay.
+TravelBugRavi,train,MumbaiDelhiRajdhani,4.6,Another great trip on the Mumbai-Delhi Rajdhani. Punctuality was spot on this time. Consistently good service.
+RailExplorerPriya,station,PatnaJn,2.1,Patna Jn was very crowded and cleanliness was a serious concern. Staff seemed overwhelmed. Not a pleasant transit.
+StationSeekerAnil,train,SuperfastExpress,3.5,The Superfast Express lived up to its name, mostly. Coach was a bit old but functional. Average journey.
+JourneyQueenDeepa,station,KanpurCtrl,3.0,Kanpur Central is a huge and busy station. Navigating it can be confusing. Cleanliness needs significant attention.
+TrackStarVikram,train,PassengerTrain,2.2,The Passenger Train was extremely slow and stopped at every small halt. Seats were hard. Only take if no other option.
+NomadNakul,station,VaranasiJn,3.7,Varanasi Jn (Cantt) has improved a lot. Better waiting areas and more food stalls. Still very busy.
+WanderlustDiya,train,KonkanKanyaExpress,4.4,Konkan Kanya Express through the Konkan route is beautiful! Train was clean and staff were polite. Recommended for the views.
+PathfinderPooja,station,SecunderabadJn,4.0,Secunderabad Jn is well managed. Clean platforms and good facilities. Easy to find your way around.
+RouteMasterRaj,train,DeccanQueen,4.1,Deccan Queen is a classic! Still maintains a certain charm. Punctual and comfortable for the Mumbai-Pune route.
+VoyageVani,station,HyderabadDecan,3.6,Hyderabad Decan (Nampally) is a key station. Decent amenities. Can get very crowded during peak hours.
+GlobeTrotterGita,train,PunjabMail,3.8,The Punjab Mail is an old, reliable train. Journey was comfortable, though the coaches felt a bit dated. Food was average.
+ExpressFanAmit,station,VisakhapatnamJn,4.3,Visakhapatnam Jn is one of the cleanest stations I've seen. Very well maintained. Good job by the authorities!
+LocalLoverLila,train,GrandTrunkExpress,3.2,Grand Trunk Express was delayed by a couple of hours. Coach cleanliness was okay, but toilets were not great.
+ComfortCruiserKaran,station,BhubaneswarRS,3.9,Bhubaneswar RS was neat and tidy. Good signage. Staff were generally helpful when I asked for directions.
+BudgetTravellerBina,train,CoromandelExpress,3.6,Coromandel Express is a popular choice. Can be crowded. Speed and punctuality were decent on my trip.
+UserA01,station,GuwahatiRS,3.0,Guwahati station is okay, a bit chaotic near the entrance. Platforms are long. Needs better seating.
+UserB15,train,HolidaySpecial,2.5,The Holiday Special train was just average. Very crowded, and the schedule was a bit off. Expected for a special train, I guess.
+UserC22,station,ThiruvananthapuramCtrl,4.2,Thiruvananthapuram Central is a well-organized station. Clean and has good facilities for passengers. Impressed.
+UserD47,train,NilgiriMountainRailway,4.7,Nilgiri Mountain Railway - what an experience! The rack and pinion system is fascinating. Views are stunning. Book well in advance!
+UserE99,station,KochiJn,3.5,Kochi Jn (Ernakulam South) is a busy hub. Facilities are adequate. Could be cleaner, especially the tracks.
+RailFanatic99,station,IndoreJn,3.8,Indore Jn has seen improvements. Waiting halls are better now. Food court offers decent variety.
+TravelBuffGeeta,train,RajdhaniExpress,4.6,Consistently good experience on the Rajdhani. The staff are attentive and the food is usually quite good for train standards.
+StationExplorerSam,station,AgraCantt,2.9,Agra Cantt was very crowded with tourists. Cleanliness was a bit of a letdown. Accessibility for luggage was okay.
+JourneyProAlia,train,ShatabdiExpress,4.0,Shatabdi is reliable for intercity travel. Clean coaches and generally on time. AC was effective.
+TrackReviewerTom,station,SuratRS,3.7,Surat station is quite modern. Good platform amenities. Could use more dustbins, perhaps.
+NomadNina,train,VandeBharat,5.0,The Vande Bharat experience was flawless! From speed to comfort to cleanliness, everything was top-notch. Highly recommend.
+WanderKidSid,station,VadodaraJn,3.4,Vadodara Jn is a major junction, so it's always bustling. Platform food was okay. Waiting areas were a bit packed.
+PathSeekerRia,train,DurontoExpress,3.8,Duronto trains are good for long distances without too many stops. My coach was clean. Food was standard IRCTC fare.
+RouteScoutLeo,station,LudhianaJn,3.1,Ludhiana Jn felt a bit disorganized. Signage wasn't very clear. Average cleanliness.
+VoyageKidMia,train,TejasExpress,4.5,Tejas has comfortable seats and good entertainment options. The journey felt quick. Slightly premium pricing but worth it for the comfort.
+GlobeWalkerFinn,station,CoimbatoreJn,3.9,Coimbatore Jn is a well-maintained station. Clean platforms and good lighting. Staff were helpful.
+ExpressAdmirerEva,train,GaribRath,2.7,Garib Rath is what it is - a budget option. Don't expect luxury. Seats are very basic. Okay if you need to save money.
+LocalVoyagerNoor,station,MaduraiJn,4.0,Madurai Jn was clean and had a distinct Southern charm. Easy to navigate. Good access to city transport.
+ComfortSeekerIan,train,JanShatabdi,3.6,Jan Shatabdi is a decent day train. More comfortable than a passenger train, less fancy than Shatabdi. Gets the job done.
+BudgetExplorerZara,station,VijayawadaJn,3.5,Vijayawada Jn is a massive and incredibly busy station. Manageable if you know where you're going. Basic amenities.
+LuxuryRiderOmar,train,KalkaShimlaToyTrain,4.8,The first class on Kalka Shimla Toy Train was lovely! Smaller crowds and better views. An unforgettable journey.
+SpeedyGonzalesRaj,station,JodhpurJn,3.7,Jodhpur Jn has a nice heritage feel. Platforms were reasonably clean. Good kulhad chai available!
+ScenicLoverLily,train,DarjeelingHimalayanRailway,4.2,Darjeeling Himalayan Railway chugging through the hills is magical. Can be a bit sooty if you're near the engine!
+CityExplorerKen,station,MysuruJn,4.3,Mysuru Jn is beautiful and very clean. One of the best-maintained stations I've visited in India. Impressive!
+AdventureSeekerTara,train,NilgiriMountainRailway,4.5,The journey on Nilgiri Mountain Railway through tea estates and tunnels is fantastic. A bit slow, but that's the point.
+TravelBugRavi,station,RanchiJn,3.2,Ranchi Jn was average. Not too crowded when I visited. Cleanliness was okay, could be improved.
+RailExplorerPriya,train,MumbaiDelhiRajdhani,4.7,The food service on Mumbai-Delhi Rajdhani this time was exceptionally good. Attentive staff.
+StationSeekerAnil,station,PrayagrajJn,2.8,Prayagraj Jn is massive and always seems to be under some construction. Finding information was a bit difficult.
+JourneyQueenDeepa,train,ChennaiBengaluruShatabdi,4.0,Chennai-Bengaluru Shatabdi's punctuality is usually good. Toilets were cleaner this time around.
+TrackStarVikram,station,AmritsarJn,3.9,Amritsar Jn has a good vibe. Close to the Golden Temple. Facilities are decent for the volume of pilgrims.
+NomadNakul,train,LocalMEMU,3.3,Local MEMU trains are functional. Don't expect comfort, but they are essential for many. Gets very crowded.
+WanderlustDiya,station,MadgaonJn,3.6,Madgaon Jn in Goa is a key station. A bit chaotic outside with taxi drivers. Platforms are okay.
+PathfinderPooja,train,VandeBharat,4.8,The staff on Vande Bharat were very professional and courteous. Announcement system was clear.
+RouteMasterRaj,station,ShimlaRS,4.1,Shimla RS is a cute, small station. Very picturesque. Basic amenities, but fitting for a hill station.
+VoyageVani,train,SuperfastExpress,3.1,The Superfast Express I took was quite old. Seats were worn out. Reached late by an hour. Disappointing.
+GlobeTrotterGita,station,DarjeelingRS,3.8,Darjeeling RS has that heritage charm. It's small and primarily for the toy train. Interesting museum nearby.
+ExpressFanAmit,train,PassengerTrain,1.9,Avoid this Passenger Train if possible. Extremely dirty, very slow, and uncomfortable. A truly bad experience.
+LocalLoverLila,station,UdagamandalamRS,4.0,Udagamandalam (Ooty) RS for the toy train is lovely. Well-maintained and has a nice atmosphere.
+ComfortCruiserKaran,train,HolidaySpecial,3.2,Holiday Special trains are a mixed bag. This one was okay, but the unreserved coaches were overflowing.
+BudgetTravellerBina,station,DehradunRS,3.5,Dehradun RS is functional. Gateway to many hill stations. Can get crowded. Cleanliness is average.
+LuxuryLinerLokesh,train,KonkanKanyaExpress,4.5,Konkan Kanya Express has some really scenic stretches. Pantry car food was surprisingly decent.
+SpeedDemonSonia,station,JammuTawi,3.3,Jammu Tawi is a crucial station. Security is high. Facilities are adequate but could be more modern.
+ScenicSeekerSamir,train,DeccanQueen,4.2,Deccan Queen still holds its own. A good, quick option between Pune and Mumbai. Dining car is a plus.
+CityHopperChitra,station,GorakhpurJn,2.7,Gorakhpur Jn needs better crowd management. It was very difficult to move around. Cleanliness also an issue.
+AdventureAlok,train,PunjabMail,3.7,Punjab Mail is a long-distance workhorse. Journey was uneventful. Bedding was clean.
+UserA01,station,GwaliorJn,3.6,Gwalior Jn has decent waiting rooms. Platforms were okay. Some good snack options available.
+UserB15,train,GrandTrunkExpress,3.0,The Grand Trunk Express journey was just alright. Coach was old. AC was a bit erratic. Reached on time, though.
+UserC22,station,RaipurJn,3.8,Raipur Jn is a fairly modern station. Clean and well-lit. Good accessibility.
+UserD47,train,CoromandelExpress,3.5,Coromandel Express is usually packed. Manage to get a confirmed ticket. Speed is good for the route.
+UserE99,station,JabalpurJn,3.2,Jabalpur Jn was average. Not particularly clean or dirty. Basic facilities are there.
+RailFanatic99,train,RajdhaniExpress,4.3,Another reliable Rajdhani journey. Staff are generally efficient. Toilets could be maintained better during long routes.
+TravelBuffGeeta,station,KotaJn,3.9,Kota Jn is famous for its coaching centers. Station is busy but manageable. Good food stalls.
+StationExplorerSam,train,ShatabdiExpress,4.1,Shatabdi trains are my go-to for quick intercity trips. Clean, fast, and meals are included.
+JourneyProAlia,station,UdaipurCity,4.2,Udaipur City station is quite picturesque and clean. Reflects the city's charm. Well done!
+TrackReviewerTom,train,VandeBharat,4.9,Travelled on Vande Bharat again. The acceleration is amazing! So much smoother and quieter than older trains.
+NomadNina,station,JaisalmerRS,3.7,Jaisalmer RS has a unique desert architecture. Basic but functional. Gateway to the golden city.
+WanderKidSid,train,DurontoExpress,3.6,Duronto was a bit late this time. Coach was clean initially, but maintenance during the journey was lacking.
+PathSeekerRia,station,BikanerJn,3.3,Bikaner Jn is an important station in the region. Facilities are average. Could use a facelift.
+RouteScoutLeo,train,TejasExpress,4.6,Tejas offers a significantly better experience than many other trains. Worth the extra cost if your budget allows.
+VoyageKidMia,station,AjmerJn,3.8,Ajmer Jn is very busy due to the Dargah. Well-connected. Cleanliness is a challenge with such high footfall.
+GlobeWalkerFinn,train,GaribRath,2.5,The 3AC in Garib Rath is very congested. Side middle berth is a pain. Only for the truly budget-conscious.
+ExpressAdmirerEva,station,MathuraJn,3.1,Mathura Jn is a major religious hub. Always crowded. Basic amenities. Needs better hygiene standards.
+LocalVoyagerNoor,train,JanShatabdi,3.9,Jan Shatabdi is good for day trips. More legroom than some other chair cars. Punctuality was good.
+ComfortSeekerIan,station,AligarhJn,2.9,Aligarh Jn was just an average station. Not very clean. Limited food options on the platform.
+BudgetExplorerZara,train,KalkaShimlaToyTrain,4.4,The Shivalik Deluxe Express on Kalka-Shimla route was excellent. Fewer stops and comfortable seating.
+LuxuryRiderOmar,station,BareillyJn,3.0,Bareilly Jn is a busy junction. Platforms were okay. Could improve on waiting area comfort.
+SpeedyGonzalesRaj,train,DarjeelingHimalayanRailway,4.0,The "Joy Ride" on Darjeeling Himalayan Railway from Darjeeling to Ghum is a must for tourists. Short but sweet.
+ScenicLoverLily,station,MoradabadJn,3.2,Moradabad Jn is a significant railway hub. Facilities are standard. Cleanliness is so-so.
+CityExplorerKen,train,NilgiriMountainRailway,4.6,The steam engine journey on NMR is a highlight. The smell of coal and the sound of the whistle are iconic!
+AdventureSeekerTara,station,SaharanpurJn,2.8,Saharanpur Jn needs better upkeep. Waiting rooms were not very clean. Staff were indifferent.
+TravelBugRavi,train,MumbaiDelhiRajdhani,4.5,The bedding provided on the Rajdhani was fresh and clean. AC was comfortable throughout the night.
+RailExplorerPriya,station,HaridwarJn,3.7,Haridwar Jn gets extremely crowded, especially during festival times. Manageable otherwise. Good connectivity to Rishikesh.
+StationSeekerAnil,train,SuperfastExpress,3.3,This particular Superfast Express was quite old. The ride was bumpy. Food options in pantry were very limited.
+JourneyQueenDeepa,station,RishikeshRS,3.9,Rishikesh RS is a relatively new and small station. Clean and less chaotic than Haridwar. Good starting point for treks.
+TrackStarVikram,train,PassengerTrain,2.0,The passenger train was delayed by over 3 hours. No information provided. Toilets were unusable.
+NomadNakul,station,PathankotCantt,3.4,Pathankot Cantt is a key military station. Functional. Basic amenities. Gateway to Himachal.
+WanderlustDiya,train,KonkanKanyaExpress,4.2,Slept well on the Konkan Kanya. Coach was relatively quiet. Woke up to beautiful coastal views.
+PathfinderPooja,station,FirozpurCantt,3.0,Firozpur Cantt station is okay. Not much to write home about. Serves its purpose for the region.
+RouteMasterRaj,train,DeccanQueen,4.0,The dining car experience on Deccan Queen is unique. Enjoyed the breakfast. A piece of railway history.
+VoyageVani,station,BhatindaJn,3.1,Bhatinda Jn is a major railhead in Punjab. Facilities are average. Could be cleaner.
+GlobeTrotterGita,train,PunjabMail,3.6,Long journey on Punjab Mail. Generally comfortable. Pantry car food was okay, nothing special.
+ExpressFanAmit,station,PatialaRS,3.5,Patiala RS is a decent station for a smaller city. Clean platforms. Not too crowded.
+UserX101,station,ChandigarhJn,4.1,Chandigarh station is well-planned and clean, much like the city itself. Good facilities.
+UserY202,train,KalkaShimlaToyTrain,4.9,Took the Rail Motor Car on Kalka-Shimla line. Unique experience, like travelling in a vintage bus on rails! Highly recommend.
+UserZ303,station,KalkaRS,3.8,Kalka station is primarily the starting point for the toy train. Well-organized for that. Clean.
+UserAlpha07,train,ShatabdiExpress,3.9,Shatabdi was a bit late, but the journey was comfortable. Food was served hot. Good for business travel.
+UserBeta11,station,SolapurJn,3.2,Solapur Jn is a busy station. Cleanliness was average. Waiting rooms could be better.
+UserGamma21,train,VandeBharat,4.7,The Vande Bharat offers excellent speed and comfort. Legroom is good in chair car. A modern travel experience.
+UserDelta34,station,KolhapurTrml,3.7,Kolhapur station (Chhatrapati Shahu Maharaj Terminus) has a nice heritage building. Clean platforms.
+UserEpsilon55,train,DurontoExpress,3.5,Duronto's non-stop nature is its biggest plus. Saved a lot of time. Coach was reasonably clean.
+UserOmega77,station,NashikRoad,3.6,Nashik Road station is the main access point for Nashik city. Decent facilities. Can get crowded.
+UserTheta92,train,TejasExpress,4.4,Tejas Express is a good premium option. Onboard Wi-Fi was a bit patchy, but seats were very comfortable.
+TravelBugRavi,station,AurangabadRS,3.4,Aurangabad station is key for Ajanta-Ellora tourists. Facilities are okay. Could use more tourist info.
+RailExplorerPriya,train,GaribRath,2.2,The side middle berth in Garib Rath is a nightmare. Avoid if you value your sleep or comfort. Very cramped.
+StationSeekerAnil,station,ManmadJn,3.0,Manmad Jn is a very important junction, always chaotic. Difficult to find things. Average cleanliness.
+JourneyQueenDeepa,train,JanShatabdi,3.8,Jan Shatabdi is a reliable intercity option. More affordable than Shatabdi. Seats are decent for a few hours.
+TrackStarVikram,station,AkolaJn,2.9,Akola Jn was not very clean. Limited seating on platforms. Basic amenities only.
+NomadNakul,train,HolidaySpecial,3.0,Holiday Special trains are often crowded and schedules can be unreliable. This one was no different. Manage expectations.
+WanderlustDiya,station,AmravatiTrml,3.5,Amravati station is relatively small and manageable. Cleanliness was good. Peaceful atmosphere.
+PathfinderPooja,train,SuperfastExpress,3.6,The Superfast Express was reasonably on time. Coach was clean. A standard, no-fuss journey.
+RouteMasterRaj,station,BilaspurJn,3.7,Bilaspur Jn is a major station in Chhattisgarh. Well-maintained platforms. Good food options.
+VoyageVani,train,PassengerTrain,1.5,This passenger train was a disaster. Filthy, hours late, and dangerously overcrowded. Never again!
+GlobeTrotterGita,station,DurgJn,3.3,Durg Jn is a busy industrial town station. Functional, but not particularly pleasant. Average all around.
+ExpressFanAmit,train,LocalMEMU,3.6,The Local MEMU is great for short hops between towns. Fast and frequent. Gets crowded during peak times.
+LocalLoverLila,station,RourkelaJn,3.1,Rourkela Jn is an important station for the steel city. Facilities are basic. Needs better upkeep.
+ComfortCruiserKaran,train,RajdhaniExpress,4.2,Rajdhani food has improved slightly. Bedding was clean. Overall a comfortable overnight journey.
+BudgetTravellerBina,station,SambalpurJn,3.0,Sambalpur Jn was okay. Not very crowded. Cleanliness could be better. Limited amenities.
+LuxuryLinerLokesh,train,ShatabdiExpress,4.0,Shatabdi is usually a safe bet for punctuality and comfort. Meals are decent for train food.
+SpeedDemonSonia,station,PuriTrml,3.9,Puri station is well-equipped to handle the pilgrim rush. Clean and organized considering the crowds.
+ScenicSeekerSamir,train,VandeBharat,4.8,The big windows on Vande Bharat offer great views. Journey was smooth and quiet. Excellent train.
+CityHopperChitra,station,CuttackJn,3.2,Cuttack Jn is an old station. Platforms were okay. Could do with modernization and better cleanliness.
+AdventureAlok,train,DurontoExpress,3.7,Duronto Express reached my destination quickly. Coach was clean. Staff were polite.
+UserA01,station,KharagpurJn,2.5,Kharagpur Jn has the world's third longest platform, but the station itself is quite dated and not very clean.
+UserB15,train,TejasExpress,4.6,Loved the Tejas Express! Modern coaches, good food, and on-time performance. A step up from regular trains.
+UserC22,station,AsansolJn,2.8,Asansol Jn is a busy coal belt station. Grimy and crowded. Needs a serious cleaning effort.
+UserD47,train,GaribRath,2.0,Booked Garib Rath to save money, regretted it. Extremely uncomfortable, especially for a long journey.
+UserE99,station,DhanbadJn,2.6,Dhanbad Jn, another station in the coal region. Similar story: crowded, not very clean. Functional at best.
+RailFanatic99,train,JanShatabdi,3.5,Jan Shatabdi is a good compromise between cost and comfort for daytime travel. Usually punctual.
+TravelBuffGeeta,station,GayaJn,3.0,Gaya Jn is important for Buddhist pilgrims. Station facilities are basic. Can get very crowded.
+StationExplorerSam,train,KalkaShimlaToyTrain,4.5,The journey on the Kalka-Shimla toy train is slow, but that's its charm. Amazing scenery. Book tickets way in advance!
+JourneyProAlia,station,MuzaffarpurJn,2.7,Muzaffarpur Jn was chaotic. Platforms were dirty. Difficult to find information.
+TrackReviewerTom,train,DarjeelingHimalayanRailway,4.1,The steam engine puffing up the hills on the Darjeeling Himalayan Railway is an iconic sight. A unique experience.
+NomadNina,station,DarbhangaJn,2.9,Darbhanga Jn is a busy station in Bihar. Average facilities and cleanliness.
+WanderKidSid,train,NilgiriMountainRailway,4.7,The Nilgiri Mountain Railway offers stunning views of the tea gardens and hills. The blue coaches are beautiful.
+PathSeekerRia,station,SiliguriJn,3.1,Siliguri Jn is a major transit point. Station is always bustling. Cleanliness is a challenge.
+RouteScoutLeo,train,SuperfastExpress,3.2,This Superfast Express was disappointingly slow and got delayed. Coach was also quite old and not well-maintained.
+VoyageKidMia,station,NewJalpaiguriJn,3.5,New Jalpaiguri (NJP) is the gateway to Sikkim and Darjeeling. Very busy. Facilities are decent for the volume it handles.
+GlobeWalkerFinn,train,PassengerTrain,2.3,The passenger train was okay for a very short distance. Otherwise, it's slow and basic. Not recommended for long travel.
+ExpressAdmirerEva,station,AlipurduarJn,3.0,Alipurduar Jn is important for accessing Dooars. Station is average. Could be better maintained.
+LocalVoyagerNoor,train,LocalMEMU,3.7,Local MEMUs are efficient for short commutes. They fill up fast, so be prepared to stand.
+ComfortSeekerIan,station,DibrugarhTown,3.3,Dibrugarh Town station serves an important city in Assam. Facilities are okay. Not too crowded.
+BudgetExplorerZara,train,HolidaySpecial,2.8,Booked a Holiday Special, and it was as chaotic as expected. Late departure, overcrowded. Only if no other choice.
+LuxuryRiderOmar,station,TinsukiaJn,3.2,Tinsukia Jn is another key station in Upper Assam. Functional. Average cleanliness and amenities.
+SpeedyGonzalesRaj,train,RajdhaniExpress,4.4,Rajdhani remains a premium experience. Good food, clean linen, and usually on time. Worth the fare.
+ScenicLoverLily,station,DimapurRS,3.0,Dimapur is Nagaland's main railhead. Station is basic but serves its purpose. Connectivity is key here.
+CityExplorerKen,train,ShatabdiExpress,4.2,Shatabdi Express is great for a comfortable day journey between cities. Meals served at your seat are convenient.
+AdventureSeekerTara,station,AgartalaRS,3.6,Agartala station is relatively new and well-built. Clean and less crowded than many older stations.
+UserX101,train,VandeBharat,4.9,The Vande Bharat is a fantastic train. Smooth, fast, and modern. A real upgrade for Indian Railways.
+UserY202,station,ErnakulamJnS,3.8,Ernakulam Jn (South) in Kochi is a major hub. Well-connected. Platforms can get very crowded. Good food options.
+UserZ303,train,DurontoExpress,3.9,Duronto offers a quick connection with fewer stops. Ideal if your destination is a major city. Coaches are generally clean.
+UserAlpha07,station,KollamJn,3.5,Kollam Jn is an important station in Kerala. Decent facilities. Cleanliness was acceptable.
+UserBeta11,train,TejasExpress,4.5,Tejas Express provides a comfortable and modern travel experience. Staff are courteous and helpful.
+UserGamma21,station,KozhikodeMain,3.7,Kozhikode Main (Calicut) station is well-located. Clean platforms. Good connectivity to the city.
+UserDelta34,train,GaribRath,2.1,The 3-tier AC in Garib Rath is extremely cramped. Not recommended for anyone valuing personal space.
+UserEpsilon55,station,MangaluruCtrl,3.9,Mangaluru Central is a neat and tidy station. Good facilities for passengers. Pleasant experience.
+UserOmega77,train,JanShatabdi,3.6,Jan Shatabdi is a good budget-friendly option for intercity travel. Seats are comfortable enough.
+UserTheta92,station,HubballiJn,3.3,Hubballi Jn is a major railway hub in Karnataka. Station is large and busy. Average cleanliness.
+TravelBugRavi,train,KonkanKanyaExpress,4.3,The views from Konkan Kanya Express are truly spectacular, especially during monsoon. Train was comfortable.
+RailExplorerPriya,station,BelagaviRS,3.1,Belagavi station is okay. Not very large. Basic amenities are available. Could be cleaner.
+StationSeekerAnil,train,DeccanQueen,4.0,Deccan Queen has a certain old-world charm. Still a popular choice for Pune-Mumbai commuters.
+JourneyQueenDeepa,station,TirupatiMain,3.8,Tirupati Main station handles a huge volume of pilgrims. Surprisingly well-managed. Cleanliness is decent given the crowds.
+TrackStarVikram,train,PunjabMail,3.5,The Punjab Mail is a long-standing train. Journey was fine. Coaches show their age but are functional.
+NomadNakul,station,NelloreRS,3.2,Nellore station is average. Platforms were okay. Not much in terms of food options.
+WanderlustDiya,train,GrandTrunkExpress,3.1,Grand Trunk Express was delayed. Coach was a bit dirty. An okay experience, nothing more.
+PathfinderPooja,station,GunturJn,3.0,Guntur Jn is a busy station. Could do with better cleanliness and more seating on platforms.
+RouteMasterRaj,train,CoromandelExpress,3.7,Coromandel Express is known for its speed. My journey was largely on time. Coach was reasonably clean.
+VoyageVani,station,WarangalRS,3.4,Warangal station has historical significance. Facilities are average. Could be better maintained.
+GlobeTrotterGita,train,HolidaySpecial,2.6,Holiday Special trains are always a gamble. This one was late and overcrowded. Only if desperate.
+ExpressFanAmit,station,NizamabadJn,2.9,Nizamabad Jn is a smaller station. Basic amenities. Not very clean.
+LocalLoverLila,train,SuperfastExpress,3.8,This Superfast Express was clean and on time. A pleasant surprise. Comfortable journey.
+ComfortCruiserKaran,station,JhansiJn,3.6,Jhansi Jn is a major historical railway junction. Well-connected. Station is large and facilities are decent.
+BudgetTravellerBina,train,PassengerTrain,1.8,The passenger train was incredibly slow and made unscheduled stops. Toilets were filthy. AVOID.
+LuxuryLinerLokesh,station,SatnaJn,3.1,Satna Jn is an important station in the region. Average cleanliness and facilities.
+SpeedDemonSonia,train,LocalMEMU,3.5,Local MEMU got me to my destination quickly. Very crowded during office hours, but convenient.
+ScenicSeekerSamir,station,KatniJn,3.0,Katni Jn is a big railway junction. Always busy. Cleanliness could definitely be improved.
+CityHopperChitra,train,RajdhaniExpress,4.6,The Rajdhani journey was very smooth. Staff were attentive and polite. Food was good for train standards.
+AdventureAlok,station,UjjainJn,3.7,Ujjain Jn is well-managed, especially considering the pilgrim traffic. Clean platforms. Good signage.
+UserA01,train,ShatabdiExpress,4.1,Shatabdi is reliable for business trips. Comfortable seating and meals included make it convenient.
+UserB15,station,RatlamJn,3.3,Ratlam Jn is famous for its snacks! Station itself is average. Can get very crowded.
+UserC22,train,VandeBharat,5.0,Vande Bharat is the future of train travel in India. Fast, clean, comfortable, and modern. Excellent!
+UserD47,station,ItarsiJn,2.8,Itarsi Jn is one of the busiest junctions in India. Always chaotic. Cleanliness is a major challenge here.

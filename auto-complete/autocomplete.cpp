@@ -114,7 +114,7 @@ public:
 };
 
 int main() {
-    string data = "data/stations.csv";
+    string data = "../data/stations.csv";
     vector<Station> stations;
     getStations(data,stations);
 
